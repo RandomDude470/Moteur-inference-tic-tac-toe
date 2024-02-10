@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="moteurInf:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/moteurInf_jar</output-path>
+    <root id="archive" name="moteurInf.jar">
+      <element id="module-output" name="moteurInf" />
+    </root>
+  </artifact>
+</component>
